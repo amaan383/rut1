@@ -1,0 +1,36 @@
+* {
+    background-color: lightpink
+}
+.content h1{
+    font-family: sans-serif;
+}
+.img1 {
+    width: 350px;
+    cursor: pointer;
+}
+.img2 {
+    width: 350px;
+    cursor: pointer;
+}
+.img3{
+    width: 350px;
+    cursor: pointer;
+}
+.img4{
+    width: 350px;
+    cursor: pointer;
+}
+p { 
+    font-family: monospace;
+    font-size: 30;
+    padding: 0 5px;
+    background: linear-gradient(
+        to bottom,
+        transparent 50%,
+        crimson 50%
+    );
+}
+.logo{
+    width: 150px;
+    cursor: pointer;
+}
